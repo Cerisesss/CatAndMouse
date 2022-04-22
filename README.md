@@ -3,6 +3,8 @@
 Un programme permettant de visualiser sur un plan en 2 dimensions un chat et
 une souris.
 
+_Développé par Célivé <3_
+
 # Conceptualiser et afficher une grille
 
 __Dans le fichier m_afficher_grille.js :__
@@ -41,3 +43,6 @@ _OUTPUT:_
  . . . . . . . . . .
  . . . . . . . . . .
 ```
+
+_Auteur : Thomas Kerbrat (https://kerbrat.co/intech/exercices_maths/slides.html#10)_
+_Date : mercredi 27 octobre 2021 à 11:24:21 UTC+2_
